@@ -1,0 +1,3 @@
+module TP_NETANEL_SERFATY
+
+go 1.21
