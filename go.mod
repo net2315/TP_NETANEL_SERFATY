@@ -1,3 +1,3 @@
-module TP_NETANEL_SERFATY
+module tpnetanelserfaty
 
-go 1.21
+go 1.21.6
